@@ -1,2 +1,2 @@
-# ColorInterpolationApp
- 
+生成两个颜色之间的十六进制颜色编码
+
